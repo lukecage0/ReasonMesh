@@ -109,3 +109,6 @@ For discussions, issues, or contributions, feel free to open an [issue](https://
 
 ---
 
+![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=lukecage0.ReasonMesh) 
+![GitHub stars](https://img.shields.io/github/stars/lukecage0/ReasonMesh?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/lukecage0/ReasonMesh?style=social)
