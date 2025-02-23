@@ -1,0 +1,27 @@
+
+https://arxiv.org/pdf/2201.11903
+Arithmetic reasoning
+• Math Word Problem Repository (Koncel-Kedziorski et al., 2016): AddSub (Hosseini
+et al., 2014): https://www.cs.washington.edu/nlp/arithmetic; MultiArith (Roy
+and Roth, 2015), license: CC BY 4.0.
+• ASDiv (Miao et al., 2020): https://github.com/chaochun/nlu-asdiv-dataset.
+• SVAMP (Patel et al., 2021): https://github.com/arkilpatel/SVAMP, MIT license:
+https://github.com/arkilpatel/SVAMP/blob/main/LICENSE.
+Commonsense reasoning
+• CSQA (Talmor et al., 2019): https://www.tau-nlp.org/commonsenseqa, https://
+github.com/jonathanherzig/commonsenseqa.
+5
+https://beta.openai.com/docs/api-reference/making-requests
+30
+• StrategyQA (Geva et al., 2021): we use the open-domain setting (question-only set)
+from BIG-bench collaboration (2021): https://github.com/google/BIG-bench/
+tree/main/bigbench/benchmark_tasks/strategyqa. The original dataset is from
+https://github.com/eladsegal/strategyqa, MIT license: https://github.com/
+eladsegal/strategyqa/blob/main/LICENSE.
+• Date understanding and sports understanding from BIG-Bench (BIG-bench collaboration,
+2021): Apache License v.2: https://github.com/google/BIG-bench/blob/main/
+LICENSE.
+• SayCan (Ahn et al., 2022): SayCan dataset can be accessed at https://say-can.github.
+io/ under CC BY 4.0 license.
+
+
