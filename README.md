@@ -4,9 +4,6 @@
 
 This project is inspired by the paper:  
 [**"An Overview and Discussion on Using Large Language Models for Implementation Generation of Solutions to Open-Ended Problems"**](https://arxiv.org/abs/2501.00562)  
-
-![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=lukecage0.ReasonMesh)
-
 ---
 
 ## 🚧 Project Status: In Development
