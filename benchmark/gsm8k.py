@@ -107,8 +107,8 @@ if __name__ == "__main__":
 
     # Instantiate benchmark with your desired model & technique
     benchmark = GSM8KBenchmark(
-        model_name="meta-llama/Llama-3.2-1B-Instruct",
+        model_name="meta-llama/Meta-Llama-3-8B-Instruct",
         technique="Zero-Shot-CoT"
     )
     # Evaluate on a small sample
-    benchmark.evaluate(num_samples=20)
+    benchmark.evaluate(num_samples=100)
